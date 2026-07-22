@@ -135,3 +135,20 @@ The next steps are:
 ## Author
 
 Joe Del Torto Jr.
+## Project Backlog
+
+### Sprint 1 (Completed)
+- ✅ Created GitHub repository.
+- ✅ Wrote the project README.
+- ✅ Set up the initial project structure.
+- ✅ Began designing the inventory management application.
+- ✅ Planned core features for the MVP.
+
+### Sprint 2 (Current Backlog)
+- ⏳ Complete the Add Inventory feature.
+- ⏳ Implement Edit Inventory functionality.
+- ⏳ Implement Delete Inventory functionality.
+- ⏳ Add search and filtering capabilities.
+- ⏳ Improve the user interface.
+- ⏳ Add input validation and error handling.
+- ⏳ Test the application and fix bugs.
