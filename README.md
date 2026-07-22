@@ -1,5 +1,5 @@
 # InventoryPro
-# InventoryPro
+
 
 InventoryPro is a warehouse inventory system that helps businesses track inventory without relying on paper records or spreadsheets.
 
