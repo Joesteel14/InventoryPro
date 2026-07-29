@@ -172,3 +172,9 @@ During Sprint 2, I continued developing InventoryPro by improving the project st
 - ⏳ Improve the user interface.
 - ⏳ Continue testing and bug fixes.
 git push
+## Current Features
+- Basic inventory management
+- Organized project structure
+- Agile sprint planning
+- GitHub version control
+- Project documentation
