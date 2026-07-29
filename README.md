@@ -153,26 +153,7 @@ Joe Del Torto Jr.
 - ⏳ Add input validation and error handling.
 - ⏳ Test the application and fix bugs.
 ## Project Backlog
+## Sprint 2 Progress
 
-### Sprint 1 (Completed)
-- ✅ Created the GitHub repository.
-- ✅ Wrote the project README.
-- ✅ Set up the project structure.
-- ✅ Planned the core features for InventoryPro.
-
-### Sprint 2 (Completed)
-- ✅ Continued developing the core inventory management features.
-- ✅ Updated and organized the project backlog.
-- ✅ Improved the project structure and code organization.
-- ✅ Fixed bugs found during development.
-- ✅ Continued testing the application.
-
-### Sprint 3 (Current Backlog)
-- ⏳ Finish the remaining inventory management features.
-- ⏳ Improve the user interface.
-- ⏳ Add more input validation and error handling.
-- ⏳ Continue testing and fixing bugs.
-- ⏳ Finalize documentation.
-git add .
-git commit -m "Complete Sprint 2 development tasks"
+During Sprint 2, I continued developing InventoryPro by improving the project structure and making progress on the core inventory management features. I also updated the project backlog, fixed issues found during development, and continued testing to ensure the application functions correctly.
 git push
