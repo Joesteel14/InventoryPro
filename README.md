@@ -173,3 +173,6 @@ Joe Del Torto Jr.
 - ⏳ Add more input validation and error handling.
 - ⏳ Continue testing and fixing bugs.
 - ⏳ Finalize documentation.
+git add .
+git commit -m "Complete Sprint 2 development tasks"
+git push
