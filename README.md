@@ -178,3 +178,10 @@ git push
 - Agile sprint planning
 - GitHub version control
 - Project documentation
+## Future Improvements
+
+- User login
+- Reports
+- Search and filtering
+- Export inventory data
+- Dashboard
