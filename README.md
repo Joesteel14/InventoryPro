@@ -156,4 +156,19 @@ Joe Del Torto Jr.
 ## Sprint 2 Progress
 
 During Sprint 2, I continued developing InventoryPro by improving the project structure and making progress on the core inventory management features. I also updated the project backlog, fixed issues found during development, and continued testing to ensure the application functions correctly.
+## Sprint 2 Backlog (Completed)
+
+- ✅ Continued development of the InventoryPro application.
+- ✅ Improved the project structure and organization.
+- ✅ Updated the README documentation.
+- ✅ Fixed bugs found during testing.
+- ✅ Updated the project backlog.
+
+## Sprint 3 Backlog
+
+- ⏳ Finish the Add Inventory feature.
+- ⏳ Complete the Edit Inventory feature.
+- ⏳ Complete the Delete Inventory feature.
+- ⏳ Improve the user interface.
+- ⏳ Continue testing and bug fixes.
 git push
